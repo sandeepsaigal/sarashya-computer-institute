@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<title>Notes</title>
+
+<link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+<header>
+
+<div class="logo">Study Notes</div>
+
+</header>
+
+<nav>
+
+<a href="index.html">Home</a>
+
+<a href="courses.html">Courses</a>
+
+<a href="notes.html">Notes</a>
+
+<a href="contact.html">Contact</a>
+
+</nav>
+
+<div class="container">
+
+<div class="card">
+
+<h2>MS Word Notes</h2>
+
+<a href="notes/msword.pdf">Download PDF</a>
+
+</div>
+
+<div class="card">
+
+<h2>Excel Notes</h2>
+
+<a href="notes/excel.pdf">Download PDF</a>
+
+</div>
+
+</div>
+
+</body>
+
+</html>

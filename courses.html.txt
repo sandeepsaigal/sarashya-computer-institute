@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<title>Courses</title>
+
+<link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+<header>
+<div class="logo">Courses</div>
+</header>
+
+<nav>
+<a href="index.html">Home</a>
+<a href="courses.html">Courses</a>
+<a href="notes.html">Notes</a>
+<a href="contact.html">Contact</a>
+</nav>
+
+<div class="container">
+
+<div class="card">
+
+<h2>ADCA</h2>
+
+<p>Office, Tally, Photoshop, Programming</p>
+
+</div>
+
+<div class="card">
+
+<h2>DCA</h2>
+
+<p>Word, Excel, PowerPoint</p>
+
+</div>
+
+<div class="card">
+
+<h2>Programming</h2>
+
+<p>C, Python, Java</p>
+
+</div>
+
+<div class="card">
+
+<h2>AI Tools</h2>
+
+<p>ChatGPT, AI software</p>
+
+</div>
+
+</div>
+
+</body>
+</html>

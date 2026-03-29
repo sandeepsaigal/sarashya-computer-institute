@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<title>Contact</title>
+
+<link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+<header>
+
+<div class="logo">Contact</div>
+
+</header>
+
+<nav>
+
+<a href="index.html">Home</a>
+
+<a href="courses.html">Courses</a>
+
+<a href="notes.html">Notes</a>
+
+<a href="contact.html">Contact</a>
+
+</nav>
+
+<div class="container">
+
+<div class="card">
+
+<h2>Contact Details</h2>
+
+<p>Phone: 7992234114</p>
+
+<p>Location: Kurthoul</p>
+
+</div>
+
+</div>
+
+</body>
+
+</html>
